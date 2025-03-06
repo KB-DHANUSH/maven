@@ -1,0 +1,7 @@
+group/client/api/ApiExceptionMapper.class
+group/client/model/GreetUpdate.class
+group/client/JavaTimeFormatter.class
+group/client/api/GreetApi.class
+group/client/RFC3339DateFormat.class
+group/client/model/GreetResponse.class
+group/client/api/ApiException.class

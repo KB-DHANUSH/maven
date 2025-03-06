@@ -1,0 +1,6 @@
+group/server/GreetResourceConfigFileTest.class
+group/server/GreetResourceMockedTest$MockMonitoring.class
+group/server/Common.class
+group/server/GreetResourceMockedTest$MockLogging.class
+group/server/GreetResourceMockedTest.class
+group/server/GreetResourceInstancePrincipalTest.class

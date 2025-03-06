@@ -1,0 +1,10 @@
+group/server/model/GreetResponse.class
+group/server/GreetingProvider.class
+group/server/JavaTimeFormatter.class
+group/server/GreetReadinessCheck.class
+group/server/model/GreetUpdate.class
+group/server/api/GreetService.class
+group/server/RFC3339DateFormat.class
+group/server/GreetResource.class
+group/server/RestApplication.class
+group/server/GreetLivenessCheck.class
